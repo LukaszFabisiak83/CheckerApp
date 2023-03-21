@@ -1,1 +1,2 @@
 # CheckerApp
+Łukasz Fabisiak
